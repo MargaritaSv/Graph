@@ -1,0 +1,20 @@
+undirected
+10
+Sara
+Sam
+Seam
+Ajay
+Mira
+Jane
+Maria
+Rahul
+Sapna
+Robit
+Sara Sam
+Sam Mira
+Mira Jane
+Sara Ajay
+Jane Maria
+Seam Sam
+Rahul Sapna
+Robit Sapna
